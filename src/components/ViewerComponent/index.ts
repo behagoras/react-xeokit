@@ -1,0 +1,1 @@
+export {default as ViewerComponent} from './ViewerComponent'

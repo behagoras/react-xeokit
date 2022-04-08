@@ -1,5 +1,5 @@
 {
-  "version": "0.0.15",
+  "version": "0.1.0",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -35,7 +35,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "@behagoras/felipelib",
+  "name": "react-xeokit",
   "access": "public",
   "author": "David Behar Lombrozo",
   "module": "dist/felipelib.esm.js",
